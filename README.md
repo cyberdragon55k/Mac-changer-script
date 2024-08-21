@@ -1,4 +1,6 @@
 # Mac-changer-script
+
+this script is for linux only
 Here is a script to change your Mac Address In Linux 
 how to use
 git clone https://github.com/cyberdragon55k/Mac-changer-script.git
